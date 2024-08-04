@@ -18,9 +18,13 @@ Welcome to the **Corona Management System**, a Java-based application designed t
 
 1. **Run the Application**:
     
-sh
+    ```bash
     javac Main.java
+    ```
+
+    ```bash
     java Main
+    ```
 
 2. **Follow the Menu**:
     - Choose the desired operation by entering the corresponding number.
