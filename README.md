@@ -14,14 +14,17 @@ Welcome to the **Corona Management System**, a Java-based application designed t
 8. **🔍 Get Patient Details By ID**: Retrieve details of a specific patient using their ID.
 9. **🚪 Exit**: Exit the application.
 
-## 🚀 How to Use
+## 🚀 How to Run
 
-1. **Run the Application**:
-    
+1. **Ensure Java is installed** on your system.
+2. **Save the code** in a file named `Main.java`.
+3. Open a **terminal or command prompt**.
+4. **Navigate** to the directory containing `Main.java`.
+5. **Compile** the program:
     ```bash
     javac Main.java
     ```
-
+6. **Run** the compiled program:
     ```bash
     java Main
     ```
