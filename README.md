@@ -46,12 +46,14 @@ CoronaManagementSystem/
 
 ### Main.java
 
+```bash
 public class Main {
     public static void main(String[] args) {
         CoronaManagementSystem system = new CoronaManagementSystem();
         system.menu();
     }
 }
+```
 
 ### CoronaManagementSystem.java
 
