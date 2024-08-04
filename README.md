@@ -33,15 +33,6 @@ Welcome to the **Corona Management System**, a Java-based application designed t
     - Choose the desired operation by entering the corresponding number.
     - Follow the prompts to enter or modify patient details.
 
-## 📂 Project Structure
-
-plaintext
-CoronaManagementSystem/
-│
-├── Main.java
-├── Patient.java
-└── README.md
-
 ## 🛠️ Code Overview
 
 ### Main.java
