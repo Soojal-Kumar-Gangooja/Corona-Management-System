@@ -69,11 +69,18 @@ Handles all the core functionalities like adding, updating, and retrieving patie
 
 •	**View Patients**: Retrieve patient details based on city, state, country, or view all.
 
-## 👨‍💻 Author
+## 🤝 Contributing
 
-	•	Soojal Kumar Gangooja - GitHub
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-Enjoy using the Corona Management System! Stay safe and healthy! 💪
+## 📞 Contact
+
+Feel free to reach out if you have any questions or need further assistance:
+- 📧 [Email](mailto:soojal.kumar.gangooja@gmail.com)
+
+---
+
+Thanks for using the Corona Management System! Stay safe and healthy! 💪
 
 
 
