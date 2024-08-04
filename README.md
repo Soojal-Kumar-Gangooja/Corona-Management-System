@@ -37,7 +37,7 @@ CoronaManagementSystem/
 
 ## 🛠️ Code Overview
 
-** Main.java **:
+###Main.java
 
 public class Main {
     public static void main(String[] args) {
@@ -46,13 +46,9 @@ public class Main {
     }
 }
 
-** CoronaManagementSystem.java **
+###CoronaManagementSystem.java
 
 Handles all the core functionalities like adding, updating, and retrieving patient details.
-
-** Patient.java **
-
-Defines the Patient class with attributes like name, age, city, state, and country.
 
 ## 🌟 Key Functionalities
 
