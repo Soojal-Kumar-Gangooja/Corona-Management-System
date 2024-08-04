@@ -53,8 +53,11 @@ Handles all the core functionalities like adding, updating, and retrieving patie
 ## 🌟 Key Functionalities
 
 •	Add Patient: Enter patient’s name, age, city, state, and country.
+
 •	Update Patient: Modify existing details based on the patient ID.
+
 •	Remove Patient: Delete patient records using the patient ID.
+
 •	View Patients: Retrieve patient details based on city, state, country, or view all.
 
 ## 👨‍💻 Author
